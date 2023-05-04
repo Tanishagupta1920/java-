@@ -1,2 +1,1 @@
-# java-
-there are some java practice problems
+some java practice problems
